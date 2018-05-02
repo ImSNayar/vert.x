@@ -1,0 +1,25 @@
+Ve
+rt.x is open source
+Powerful module system
+Reactive characterstics
+	- Responsive - Respond to user in a timely manner - Different from web design
+	- Elastic - Stay responsive even with high volume by scaling
+	- Resilient - Stay responsive in case of failure
+	- Message Driven - use asynchronous message passing as boundary between systems
+Event driven and non-blocking
+Multi-reactor pattern
+Actor-like concurrency
+Distributed event bus
+Management and monitoring built in --> JMX and dropwizard matrix
+polygot
+Callback hell
+Vert.x is microservice framework
+	- Small in size
+	- Runs in own process
+	- Has its own datasource
+	- Distributed
+	- Independently scalable
+	- polygot
+
+
+ENV VERTX_OPTS "-Dvertx.options.workerPoolSize=100"
